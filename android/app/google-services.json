@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "672681211485",
+    "project_id": "resume-analyzer-d14f4",
+    "storage_bucket": "resume-analyzer-d14f4.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:672681211485:android:8fba6c70dd0796bc7d3fb4",
+        "android_client_info": {
+          "package_name": "com.example.smart_interview_analyzer"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCWhe3xFlaBewqcJWtjfbTn6HSLrYZKvZw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
